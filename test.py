@@ -1,3 +1,2 @@
-print ("Hello World!")
+input ("Press enter to exit.")
 
-input ("Press Enter to exit.")
